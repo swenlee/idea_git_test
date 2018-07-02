@@ -15,8 +15,11 @@ public class UserDao {
 
     public void method2(){}
     
-    public void b(){}
+    public void b(){
+        System.out.println("method b excute");
+    }
 
     public void a(){}
+
 
 }
