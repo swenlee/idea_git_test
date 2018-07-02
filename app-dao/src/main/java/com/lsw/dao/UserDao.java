@@ -20,6 +20,10 @@ public class UserDao {
     }
 
     public void a(){}
+    
+    public void c(){
+         System.out.println("method c excute");
+    }
 
 
 }
