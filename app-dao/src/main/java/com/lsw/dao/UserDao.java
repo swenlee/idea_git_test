@@ -9,7 +9,9 @@ public class UserDao {
         return "name"+name;
     }
 
-    public void method1(){}
+    public void method1(){
+        System.out.println("hello world");
+    }
 
     public void method2(){}
 
