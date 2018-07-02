@@ -9,4 +9,6 @@ public class UserDao {
         return "name"+name;
     }
 
+    public void method1(){}
+
 }
