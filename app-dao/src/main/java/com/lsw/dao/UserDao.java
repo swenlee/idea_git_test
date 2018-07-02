@@ -18,5 +18,9 @@ public class UserDao {
     public void b(){}
 
     public void a(){}
+    
+    public void c(){
+         System.out.println("method c excute");
+    }
 
 }
