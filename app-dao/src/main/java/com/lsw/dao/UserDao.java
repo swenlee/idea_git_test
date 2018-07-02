@@ -14,5 +14,7 @@ public class UserDao {
     }
 
     public void method2(){}
+    
+    public void b(){}
 
 }
